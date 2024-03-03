@@ -22,7 +22,8 @@ React JS (Frontend)
 MySQL for Database
 Maven for project management
 Bootstrap (Styling)
-Functional Modules in Project Management Solution :
+
+# Functional Modules in Project Management Solution :
 The registration and Login system has been added so that only authenticated users (Project Manager, Team Lead & Team Member) can perform their functionalities.
 
 1)Project Manager Module:
