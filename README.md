@@ -17,7 +17,7 @@ Integration with Third-Party Tools: Support integration with popular third-party
 # Technologies Used:
 Technologies Used in Project Management Solution Project
 
-1)cSpring Boot (REST APIS)
+1) Spring Boot (REST APIS)
 
 2) React JS (Frontend)
 
