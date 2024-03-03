@@ -18,9 +18,13 @@ Integration with Third-Party Tools: Support integration with popular third-party
 Technologies Used in Project Management Solution Project
 
 1)Spring Boot (REST APIS)
+
 2)React JS (Frontend)
+
 3)MySQL for Database
+
 4)Maven for project management
+
 5)Bootstrap (Styling)
 
 # Functional Modules in Project Management Solution :
