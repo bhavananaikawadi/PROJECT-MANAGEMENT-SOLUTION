@@ -17,11 +17,11 @@ Integration with Third-Party Tools: Support integration with popular third-party
 # Technologies Used:
 Technologies Used in Project Management Solution Project
 
-Spring Boot (REST APIS)
-React JS (Frontend)
-MySQL for Database
-Maven for project management
-Bootstrap (Styling)
+1)Spring Boot (REST APIS)
+2)React JS (Frontend)
+3)MySQL for Database
+4)Maven for project management
+5)Bootstrap (Styling)
 
 # Functional Modules in Project Management Solution :
 The registration and Login system has been added so that only authenticated users (Project Manager, Team Lead & Team Member) can perform their functionalities.
